@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Netkib&hide_border=true&border_radius=18&background=00000000&ring=FC4374&fire=FC4374&currStreakLabel=FC4374&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff&border=FC4374" />
+  <img width="69%" src="https://github-readme-streak-stats.herokuapp.com/?user=Netkib&hide_border=true&border_radius=18&background=00000000&ring=FC4374&fire=FC4374&currStreakLabel=FC4374&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff&border=FC4374" />
 </div>
 
 ---
