@@ -23,7 +23,6 @@
 
 </div>
 
----
 
 # 🚀 About Netkib
 
@@ -31,7 +30,7 @@
 
 At **Netkib**, we believe that technology should do more than just exist — it should solve problems, create opportunities, and drive measurable growth. That is why our approach goes beyond development alone: we focus on building digital ecosystems that help businesses strengthen their online presence, improve user experience, increase visibility in search engines, and generate meaningful engagement across multiple channels. Whether it is launching a custom SaaS product, optimizing a website for search performance, running data-driven marketing strategies, creating compelling Facebook content campaigns, or providing long-term technical support, our mission is to become a trusted digital partner for every client we work with. By combining innovation, reliability, modern design standards, and deep industry knowledge, **Netkib** continues to empower brands with the tools, systems, and strategies they need to succeed in today’s competitive digital world.
 
----
+
 
 # 🎯 Core Services
 
