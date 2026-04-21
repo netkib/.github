@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=35&pause=1000&color=FC4374&center=true&width=1003&height=100&lines=Full+Stack+Web+Development+%7C+SaaS+%7C+SEO+%7C+Marketing;10%2B+Years+of+Professional+IT+Experience;Engineering+Scalable+Digital+Products;Helping+Businesses+Build%2C+Launch+and+Scale)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Experience-10%2B%20Years-FC4374?style=for-the-badge&logo=github&logoColor=ffffff" />
@@ -112,8 +112,6 @@ At **Netkib**, we believe that technology should do more than just exist — it 
 
 ---
 
-
----
 
 <h3 align="left">Backend & Frameworks</h3>
 
