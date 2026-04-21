@@ -41,6 +41,40 @@
 
 </div>
 
+# 📊 Netkib Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Netkib&show_icons=true&hide_border=true&border_radius=18&rank_icon=github&bg_color=00000000&title_color=FC4374&text_color=e5e7eb&icon_color=FC4374&border_color=FC4374" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netkib&layout=compact&hide_border=true&border_radius=18&bg_color=00000000&title_color=FC4374&text_color=e5e7eb&icon_color=FC4374&border_color=FC4374" />
+
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Netkib&hide_border=true&border_radius=18&background=00000000&ring=FC4374&fire=FC4374&currStreakLabel=FC4374&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff&border=FC4374" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Netkib&bg_color=0d1117&color=FC4374&line=FC4374&point=ffffff&area=true&area_color=FC4374&hide_border=true&radius=16" />
+</div>
+
+---
+
+# 💼 Experience Snapshot
+
+<div align="center">
+
+| Metric | Value |
+|:--|--:|
+| **Professional Experience** | **10+ Years** |
+| **Web Projects Delivered** | **100+** |
+| **SaaS / Custom Platforms** | **25+** |
+| **SEO & Marketing Campaigns** | **80+** |
+| **Business Websites Built** | **50+** |
+| **Long-Term Support Projects** | **Ongoing** |
+
+</div>
+
 
 # 🚀 About Netkib
 
@@ -235,45 +269,5 @@ At **Netkib**, we believe that technology should do more than just exist — it 
     </td>
   </tr>
 </table>
-
----
-
-
-
-# 📊 Netkib Dashboard
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Netkib&show_icons=true&hide_border=true&border_radius=18&rank_icon=github&bg_color=00000000&title_color=FC4374&text_color=e5e7eb&icon_color=FC4374&border_color=FC4374" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netkib&layout=compact&hide_border=true&border_radius=18&bg_color=00000000&title_color=FC4374&text_color=e5e7eb&icon_color=FC4374&border_color=FC4374" />
-
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Netkib&hide_border=true&border_radius=18&background=00000000&ring=FC4374&fire=FC4374&currStreakLabel=FC4374&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff&border=FC4374" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Netkib&bg_color=0d1117&color=FC4374&line=FC4374&point=ffffff&area=true&area_color=FC4374&hide_border=true&radius=16" />
-</div>
-
----
-
-# 💼 Experience Snapshot
-
-<div align="center">
-
-| Metric | Value |
-|:--|--:|
-| **Professional Experience** | **10+ Years** |
-| **Web Projects Delivered** | **100+** |
-| **SaaS / Custom Platforms** | **25+** |
-| **SEO & Marketing Campaigns** | **80+** |
-| **Business Websites Built** | **50+** |
-| **Long-Term Support Projects** | **Ongoing** |
-
-</div>
-
----
 
 
