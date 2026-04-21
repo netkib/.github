@@ -23,17 +23,8 @@
 
 </div>
 
-
-# 🚀 About Netkib
-
-**Netkib** is a forward-thinking IT company dedicated to helping businesses grow through powerful technology, strategic creativity, and result-driven digital solutions. With more than **10 years of professional experience**, we have built a strong reputation for delivering high-quality services in **full stack web development**, **custom SaaS solutions**, **software engineering**, **SEO**, **digital marketing**, and **Facebook content marketing**. Our team of skilled developers, designers, and digital specialists works closely with startups, small businesses, and established brands to create scalable, modern, and high-performing digital products that are aligned with real business goals. From responsive websites and enterprise-grade web applications to conversion-focused landing pages and advanced business platforms, we combine technical excellence with smart planning to deliver solutions that are both visually impressive and functionally powerful.
-
-At **Netkib**, we believe that technology should do more than just exist — it should solve problems, create opportunities, and drive measurable growth. That is why our approach goes beyond development alone: we focus on building digital ecosystems that help businesses strengthen their online presence, improve user experience, increase visibility in search engines, and generate meaningful engagement across multiple channels. Whether it is launching a custom SaaS product, optimizing a website for search performance, running data-driven marketing strategies, creating compelling Facebook content campaigns, or providing long-term technical support, our mission is to become a trusted digital partner for every client we work with. By combining innovation, reliability, modern design standards, and deep industry knowledge, **Netkib** continues to empower brands with the tools, systems, and strategies they need to succeed in today’s competitive digital world.
-
-
-
 # 🎯 Core Services
-
+<br/>
 <div align="center">
 
 | Service Area | What We Deliver |
@@ -49,6 +40,15 @@ At **Netkib**, we believe that technology should do more than just exist — it 
 | **Maintenance & Support** | Optimization, monitoring, bug fixing, upgrades, long-term technical care |
 
 </div>
+
+
+# 🚀 About Netkib
+
+**Netkib** is a forward-thinking IT company dedicated to helping businesses grow through powerful technology, strategic creativity, and result-driven digital solutions. With more than **10 years of professional experience**, we have built a strong reputation for delivering high-quality services in **full stack web development**, **custom SaaS solutions**, **software engineering**, **SEO**, **digital marketing**, and **Facebook content marketing**. Our team of skilled developers, designers, and digital specialists works closely with startups, small businesses, and established brands to create scalable, modern, and high-performing digital products that are aligned with real business goals. From responsive websites and enterprise-grade web applications to conversion-focused landing pages and advanced business platforms, we combine technical excellence with smart planning to deliver solutions that are both visually impressive and functionally powerful.
+
+At **Netkib**, we believe that technology should do more than just exist — it should solve problems, create opportunities, and drive measurable growth. That is why our approach goes beyond development alone: we focus on building digital ecosystems that help businesses strengthen their online presence, improve user experience, increase visibility in search engines, and generate meaningful engagement across multiple channels. Whether it is launching a custom SaaS product, optimizing a website for search performance, running data-driven marketing strategies, creating compelling Facebook content campaigns, or providing long-term technical support, our mission is to become a trusted digital partner for every client we work with. By combining innovation, reliability, modern design standards, and deep industry knowledge, **Netkib** continues to empower brands with the tools, systems, and strategies they need to succeed in today’s competitive digital world.
+
+
 
 
 
