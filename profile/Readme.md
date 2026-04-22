@@ -94,12 +94,6 @@ At **Netkib**, we believe that technology should do more than just exist — it 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
